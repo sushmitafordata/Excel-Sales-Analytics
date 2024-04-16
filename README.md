@@ -1,8 +1,6 @@
 # Excel-Sales-Analytics for AtliQ Hardware
-AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office through out the India.
-Given are the differnt tasks done in the Sales and Finance Division of the company to take data-informed decision.
-
-
+AtliQ Hardware is a leading supplier of computer hardware and peripherals, catering to a diverse range of clients across India, including surge stores, Nomad stores, and more. With a strong presence in both the United States and India, AtliQ Hardware operates as a multinational entity, offering its services to businesses worldwide.
+Using the data of the company reports for Sales and Finanace department has been created to make more data-informed decisions for business growth and strategy making.
 ## Sales Report :
 
 
